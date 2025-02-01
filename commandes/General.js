@@ -55,8 +55,8 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "♥️" }, async (dest, 
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "leonard🍃tech", numero: "255655192476" },
-      { nom: "King Coder", numero: "255757103671" },
+      { nom: "STANYTECH™", numero: "255756738502" },
+      { nom: "King Coder", numero: "255675952090" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
@@ -103,8 +103,8 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "🤝" }, async (de
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "leonard🍃tech", numero: "255655192476" },
-      { nom: "King Coder", numero: "255757103671" },
+      { nom: "STANYTECH™", numero: "255756738502" },
+      { nom: "King Coder", numero: "255612285041" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
